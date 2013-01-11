@@ -142,10 +142,6 @@ msgstr ""
 msgid "You must enter a temperature."
 msgstr "Er moet een temperatuur worden ingesteld."
 
-#: pronterface.py:288
-msgid "You must enter a temperature."
-msgstr "Er moet een temperatuur worden ingesteld."
-
 #: pronterface.py:331
 msgid "Do you want to erase the macro?"
 msgstr "Wilt u de macro verwijderen?"
