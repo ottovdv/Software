@@ -1,93 +1,89 @@
-# Plater.py messages Dutch
-# Copyright (C) YEAR ORGANIZATION
-# Ottovdv <ottovdv@hotmail.com>, 2013.
-#
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2012-02-26 02:40+CET\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Project-Id-Version: Plater\n"
+"POT-Creation-Date: 2013-01-27 02:40+CET\n"
+"PO-Revision-Date: \n"
 "Last-Translator: Ottovdv <ottovdv@hotmail.com>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language-Team: <LL@li.org>\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=CHARSET\n"
-"Content-Transfer-Encoding: ENCODING\n"
-"Generated-By: pygettext.py 1.5\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Nederlands\n"
+"X-Poedit-Country: NEDERLAND\n"
 
-
-#: plater.py:249
+#: plater.py:223
 msgid "Plate building tool"
 msgstr "Gereedschap voor plateau"
 
-#: plater.py:255
+#: plater.py:229
 msgid "Clear"
 msgstr "Wis"
 
-#: plater.py:256
+#: plater.py:230
 msgid "Load"
 msgstr "Laden"
 
-#: plater.py:258 plater.py:261
+#: plater.py:232
 msgid "Export"
 msgstr "Exporteren"
 
-#: plater.py:263
+#: plater.py:235
 msgid "Done"
 msgstr "Klaar"
 
-#: plater.py:265
+#: plater.py:237
 msgid "Cancel"
 msgstr "Annuleer"
 
-#: plater.py:267
+#: plater.py:239
 msgid "Snap to Z = 0"
 msgstr "Flits naar Z = 0"
 
-#: plater.py:268
+#: plater.py:240
 msgid "Put at 100, 100"
 msgstr "Plaats op 100, 100"
 
-#: plater.py:269
+#: plater.py:241
 msgid "Delete"
 msgstr "Verwijder"
 
-#: plater.py:270
+#: plater.py:242
 msgid "Auto"
 msgstr "Auto"
 
-#: plater.py:295
+#: plater.py:266
 msgid "Autoplating"
 msgstr "Automatisch plateau"
 
-#: plater.py:323
+#: plater.py:294
 msgid "Bed full, sorry sir :("
 msgstr "Bed vol, sorry hoor :("
 
-#: plater.py:333
+#: plater.py:304
 msgid "Are you sure you want to clear the grid? All unsaved changes will be lost."
 msgstr "Weet u zeker dat u het rooster wilt wissen? Alle niet-opgeslagen wijzigingen gaan verloren"
 
-#: plater.py:333
+#: plater.py:304
 msgid "Clear the grid?"
 msgstr "Wis het rooster?"
 
-#: plater.py:379
+#: plater.py:346
 msgid "Pick file to save to"
 msgstr "Kies bestand om op te slaan"
 
-#: plater.py:380
+#: plater.py:347
 msgid "STL files (;*.stl;*.STL;)"
 msgstr "STL bestanden (;*.stl;*.STL;)"
 
-#: plater.py:414
+#: plater.py:367
 msgid "wrote %s"
 msgstr "geschreven %s"
 
-#: plater.py:417
+#: plater.py:370
 msgid "Pick file to load"
 msgstr "Kies bestand om te laden"
 
-#: plater.py:418
+#: plater.py:371
 msgid "STL files (;*.stl;*.STL;)|*.stl|OpenSCAD files (;*.scad;)|*.scad"
 msgstr "STL bestanden (;*.stl;*.STL;)|*.stl|OpenSCAD bestanden (;*.scad;)|*.scad"
 
