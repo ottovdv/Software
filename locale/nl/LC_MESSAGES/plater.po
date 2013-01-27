@@ -11,79 +11,82 @@ msgstr ""
 "X-Poedit-Language: Nederlands\n"
 "X-Poedit-Country: NEDERLAND\n"
 
-#: plater.py:223
+#: plater.py:249
 msgid "Plate building tool"
 msgstr "Gereedschap voor plateau"
 
-#: plater.py:229
+#: plater.py:255
 msgid "Clear"
 msgstr "Wis"
 
-#: plater.py:230
+#: plater.py:256
 msgid "Load"
 msgstr "Laden"
 
-#: plater.py:232
+#: plater.py:258 plater.py:261
 msgid "Export"
 msgstr "Exporteren"
 
-#: plater.py:235
+#: plater.py:263
 msgid "Done"
 msgstr "Klaar"
 
-#: plater.py:237
+#: plater.py:265
 msgid "Cancel"
 msgstr "Annuleer"
 
-#: plater.py:239
+#: plater.py:267
 msgid "Snap to Z = 0"
 msgstr "Flits naar Z = 0"
 
-#: plater.py:240
+#: plater.py:268
 msgid "Put at 100, 100"
 msgstr "Plaats op 100, 100"
 
-#: plater.py:241
+#: plater.py:269
 msgid "Delete"
 msgstr "Verwijder"
 
-#: plater.py:242
+#: plater.py:270
 msgid "Auto"
 msgstr "Auto"
 
-#: plater.py:266
+#: plater.py:295
 msgid "Autoplating"
 msgstr "Automatisch plateau"
 
-#: plater.py:294
+#: plater.py:323
 msgid "Bed full, sorry sir :("
 msgstr "Bed vol, sorry hoor :("
 
-#: plater.py:304
-msgid "Are you sure you want to clear the grid? All unsaved changes will be lost."
-msgstr "Weet u zeker dat u het rooster wilt wissen? Alle niet-opgeslagen wijzigingen gaan verloren"
+#: plater.py:333
+msgid ""
+"Are you sure you want to clear the grid? All unsaved changes will be lost."
+msgstr ""
+"Weet u zeker dat u het rooster wilt wissen? Alle niet-opgeslagen wijzigingen "
+"gaan verloren"
 
-#: plater.py:304
+#: plater.py:333
 msgid "Clear the grid?"
 msgstr "Wis het rooster?"
 
-#: plater.py:346
+#: plater.py:379
 msgid "Pick file to save to"
 msgstr "Kies bestand om op te slaan"
 
-#: plater.py:347
+#: plater.py:380
 msgid "STL files (;*.stl;*.STL;)"
 msgstr "STL bestanden (;*.stl;*.STL;)"
 
-#: plater.py:367
+#: plater.py:414
 msgid "wrote %s"
 msgstr "geschreven %s"
 
-#: plater.py:370
+#: plater.py:417
 msgid "Pick file to load"
 msgstr "Kies bestand om te laden"
 
-#: plater.py:371
+#: plater.py:418
 msgid "STL files (;*.stl;*.STL;)|*.stl|OpenSCAD files (;*.scad;)|*.scad"
-msgstr "STL bestanden (;*.stl;*.STL;)|*.stl|OpenSCAD bestanden (;*.scad;)|*.scad"
-
+msgstr ""
+"STL bestanden (;*.stl;*.STL;)|*.stl|OpenSCAD bestanden (;*.scad;)|*.scad"
